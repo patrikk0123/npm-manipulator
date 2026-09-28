@@ -68,7 +68,7 @@
   <properties>
     <maven.compiler.release>11</maven.compiler.release>
 
-    <version.atlas>1.2.2</version.atlas>
+    <version.atlas>1.2.3</version.atlas>
     <version.commons-cli>1.11.0</version.commons-cli>
     <version.commons-codec>1.22.1</version.commons-codec>
     <version.commons-lang>3.20.0</version.commons-lang>
